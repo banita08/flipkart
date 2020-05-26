@@ -1,4 +1,4 @@
 LOGIN
 
-Printf("Hello world")
-
+Publicvoid"Printf("Hello world")
+hxhsosssks
