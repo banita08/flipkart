@@ -1,4 +1,5 @@
 LOGIN
 
 Publicvoid"Printf("Hello world")
-hxhsosssks
+Delete temporary files
+
